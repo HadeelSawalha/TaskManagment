@@ -1,4 +1,4 @@
-package TaskManagerProject;
+ package TaskManagerProject;
 
 public interface Queries {
    String CREATE_TASK_SQL_QUERY = "INSERT INTO task_management_system.task (task_name, description, tag, " +
