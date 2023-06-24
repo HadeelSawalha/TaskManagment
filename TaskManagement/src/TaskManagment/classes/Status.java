@@ -4,3 +4,4 @@ package TaskManagerProject;
 public enum Status {
 	OPEN, IN_PROGRESS, VERIFIED, COMPLETED, INCOMPLETE
 }
+
